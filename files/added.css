@@ -1,0 +1,54 @@
+/** THIS FIXES AN ISSUE WITH BOOTSTRAP **/
+.flip-clock-wrapper ul li {
+	line-height: 60px;
+}
+
+.flip-clock-wrapper ul.flip {
+	list-style: none;
+}
+
+.flip-clock-wrapper ul.flip li {
+	margin-left: 0px;
+}
+
+/** RESPONSIVENESS */
+@media ( max-width:767px ) {
+	.flip-clock-wrapper { margin: 0 auto; display: block; }
+
+	.flip-clock-wrapper ul { height: 50px; line-height: 50px; }
+	.flip-clock-wrapper ul li {	line-height: 50px; }
+	.flip-clock-wrapper ul li a div.up:after { top: 24px; }
+	.flip-clock-divider { height: 50px; }
+	.flip-clock-dot { height: 6px; width: 6px; left: 7px;}
+	.flip-clock-dot.top { top: 17px; }
+	.flip-clock-dot.bottom { bottom: 8px; }
+
+	.flip-clock-divider .flip-clock-label { font-size: 16px; }
+	.flip-clock-divider.hours .flip-clock-label { right: -66px; }
+	.flip-clock-divider.minutes .flip-clock-label { right: -78px; }
+	.flip-clock-divider.seconds .flip-clock-label { right: -78px; }
+	
+	.flip-clock-wrapper ul { width: 37px; }
+	.flip-clock-wrapper ul li a div div.inn { font-size: 30px; }
+}
+/*
+     FILE ARCHIVED ON 16:55:34 Dec 26, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:49:15 Jul 09, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 187.6
+  exclusion.robots: 0.08
+  exclusion.robots.policy: 0.074
+  RedisCDXSource: 1.521
+  esindex: 0.01
+  LoadShardBlock: 167.744 (3)
+  PetaboxLoader3.datanode: 196.25 (5)
+  CDXLines.iter: 16.299 (3)
+  load_resource: 245.492 (2)
+  PetaboxLoader3.resolve: 62.596 (2)
+*/

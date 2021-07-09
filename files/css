@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inconsolata Regular'), local('Inconsolata-Regular'), url(http://web.archive.org/web/20171219231746im_/https://fonts.gstatic.com/s/inconsolata/v16/BjAYBlHtW3CJxDcjzrnZCF02b4v3fUxqf9CZJ1qUoIA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Merriweather Italic'), local('Merriweather-Italic'), url(http://web.archive.org/web/20171219231746im_/https://fonts.gstatic.com/s/merriweather/v19/So5lHxHT37p2SS4-t60SlP-h276deSBHSGl3jPkVKDo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Merriweather Bold Italic'), local('Merriweather-BoldItalic'), url(http://web.archive.org/web/20171219231746im_/https://fonts.gstatic.com/s/merriweather/v19/EYh7Vl4ywhowqULgRdYwIONfVQSuMy1q3WzzeUBr2Ns.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Merriweather Black Italic'), local('Merriweather-BlackItalic'), url(http://web.archive.org/web/20171219231746im_/https://fonts.gstatic.com/s/merriweather/v19/EYh7Vl4ywhowqULgRdYwIGOs5rKs1XhQYCgZqE8eCYU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Merriweather Regular'), local('Merriweather-Regular'), url(http://web.archive.org/web/20171219231746im_/https://fonts.gstatic.com/s/merriweather/v19/RFda8w1V0eDZheqfcyQ4ENqQynqKV_9Plp7mupa0S4g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Merriweather Bold'), local('Merriweather-Bold'), url(http://web.archive.org/web/20171219231746im_/https://fonts.gstatic.com/s/merriweather/v19/ZvcMqxEwPfh2qDWBPxn6nqp5NA6AAOjfQM_HmvD0shQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Merriweather Black'), local('Merriweather-Black'), url(http://web.archive.org/web/20171219231746im_/https://fonts.gstatic.com/s/merriweather/v19/ZvcMqxEwPfh2qDWBPxn6ngvr42gIYPGl20Rgir8ypAU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Regular'), local('Montserrat-Regular'), url(http://web.archive.org/web/20171219231746im_/https://fonts.gstatic.com/s/montserrat/v12/gFXtEMCp1m_YzxsBpKl68i3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Montserrat Bold'), local('Montserrat-Bold'), url(http://web.archive.org/web/20171219231746im_/https://fonts.gstatic.com/s/montserrat/v12/IQHow_FEYlDC4Gzy_m8fcrOLyRJkM5aLlPlkJMOAyH0.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 23:17:46 Dec 19, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:49:15 Jul 09, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.084
+  exclusion.robots.policy: 0.076
+  RedisCDXSource: 1.498
+  esindex: 0.008
+  LoadShardBlock: 269.377 (6)
+  PetaboxLoader3.datanode: 196.587 (8)
+  CDXLines.iter: 188.178 (3)
+  load_resource: 181.332 (2)
+  PetaboxLoader3.resolve: 86.77 (2)
+*/
